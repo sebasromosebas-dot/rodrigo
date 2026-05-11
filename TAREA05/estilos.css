@@ -1,0 +1,52 @@
+header{
+
+display: flex;
+height: 70px;
+justify-content: space-between;
+/*background-color: rgb(215, 250, 220);*/
+align-items: center;
+padding: 10px;
+
+}
+a{
+    text-decoration: none;
+    color: black;+
+    
+
+}
+
+nav a{
+   font-weight: 600;
+   padding-right: 15px;
+    
+
+}
+
+nav a:hover{
+color:#FFE81F;
+
+
+}
+
+img{
+ width: 150PX;
+height: 200PX;
+
+
+}
+
+div img{
+display: flex;
+jus
+
+
+}
+
+h1{
+    color: blue;
+    font-family: Arial
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
